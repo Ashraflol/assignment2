@@ -1,0 +1,35 @@
+.border-red{
+    border: 2px solid red;
+    border-radius: 20px;
+  }
+  
+  .form-group , .form-check{
+    padding-bottom: 10px;
+  }
+  
+  .form-check label , .form-check small{
+    font-size: 11px;
+  }
+  
+  .form-check small {
+    color: red !important;
+    text-decoration: underline;
+  }
+  
+  .btn-danger-submit{
+    box-shadow: 0px 8px 29px -4px red;
+    background-color: red !important;
+    color: white !important;
+  }
+
+  .btn-primary{
+    box-shadow: 0px 8px 29px -4px rgb(55, 103, 224);
+    background-color: rgb(55, 103, 224) !important;
+  }
+
+  .logintext{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%)
+  }
